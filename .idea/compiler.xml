@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-service-register-consumer8082" />
+        <module name="cloud-service-api-impl-openFeign8084" />
+        <module name="nacos-service-register-producer8081" />
+        <module name="cloud-service-api-openFeign8083" />
+        <module name="cloud-service-nacos-config8085" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

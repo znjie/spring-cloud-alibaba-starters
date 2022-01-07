@@ -1,0 +1,10 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: cloud-service-api-openFeign8083
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848

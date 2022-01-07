@@ -1,0 +1,15 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: cloud-service-nacos-config8085
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848  #注册中心
+
+      config:
+        server-addr: localhost:8848  #配置中心地址
+        group: DEFAULT_GROUP
+        file-extension: yaml

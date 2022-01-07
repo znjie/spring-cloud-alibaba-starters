@@ -1,0 +1,6 @@
+#spring:
+  #profiles:
+    #active: dev # 开发环境
+    #active: prod # 线上环境
+
+
